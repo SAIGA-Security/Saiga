@@ -42,6 +42,7 @@ www.GetSaiga.ir
 
 استفاده از اسکن سه مرحله ای برای اسکن دقیق برنامه ها ، تنظیمات و حافظه دستگاه و امکان به روز رسانی آنتی ویروس ، زیر 5 ثانیه ، سایر امکانات و ویژگی های سایگا هستند !
 
+
 دانلود از کافه بازار :
 
 https://cafebazaar.ir/app/ir.akastudio.saiga
@@ -54,9 +55,4 @@ https://myket.ir/app/ir.akastudio.saiga
 
 https://iranapps.ir/app/ir.akastudio.saiga
 
-
-
-E-Mail : info@AliKarbasi.ir
-
-Website : www.AliKarbasi.ir
 </div>
