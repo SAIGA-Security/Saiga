@@ -1,6 +1,6 @@
 module github.com/alikarbasicom/alikarbasicom
 
-go 1.20
+v 1.20
 
 require (
   github.com/NodeBB/NodeBB v0.0.0-514af5d657fda68c692b2b1fd1247e0a88b59f88 // indirect
